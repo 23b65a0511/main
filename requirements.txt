@@ -1,8 +1,8 @@
-flask
-numpy
-opencv-python
-scikit-learn
-tensorflow
-pandas
-Pillow
+flask==2.3.3
+numpy==1.23.5
+scikit-learn==1.2.2
+opencv-python-headless==4.8.0.76
+tensorflow==2.12.0
 joblib
+pandas
+gunicorn
